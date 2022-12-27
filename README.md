@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Bio
 Hello!
-I’m Sai Sravanthi Joshi
+I’m Sai Sravanthi Joshi a Bioengineer at the University of Pittsburgh.
 
 <br>
 <br>
@@ -30,6 +30,9 @@ I’m Sai Sravanthi Joshi
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/srav_joshi)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sai-sravanthi-joshi/)
+
+
+## Code Space
 [![LinkedIn Badge](https://img.shields.io/badge/Kaggel-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://www.kaggle.com/saisravanthijoshi/)
   
   

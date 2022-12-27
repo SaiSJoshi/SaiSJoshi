@@ -1,7 +1,7 @@
 <img src="banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 ## Bio
-I’m currently pursuing MS Bioengineering @University of Pittsburgh. I am looking to collaborate on deep learning or machine learning projects related to sound, EEG signals, brain computer interface or any other Bioengineering reseach. I am always willing to explore new horizons. 
+My current academic endeavor is an MS in Bioengineering at the University of Pittsburgh. I'm interested in working with any deep learning or machine learning projects using sound, EEG signals, brain-computer interfaces, or any other bioengineering-related research.  I am always willing to explore new horizons.
 
 <br>
 <br>

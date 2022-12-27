@@ -68,5 +68,5 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## Contact
-- ![IfemaFeriaDeMadridGIF](https://user-images.githubusercontent.com/95394670/209590598-fe048356-e6dd-44a6-b64c-fa611cd47bb1.gif=){ width=50% }
+-![IfemaFeriaDeMadridGIF (2)](https://user-images.githubusercontent.com/95394670/209590777-f56546cc-19d3-40aa-97be-7227f4295e30.gif| width=10)
 📫 Reach me on sravanthi.joshi@yahoo.com

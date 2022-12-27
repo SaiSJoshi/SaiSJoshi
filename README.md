@@ -20,7 +20,7 @@ I’m Sai Sravanthi Joshi
 <br>
 <br>
 
-##🌱 Collaboration Interests 
+## 🌱 Collaboration Interests 
 - Implementing Deep Learning methods for Neural Engineering
 
 <br>
@@ -45,7 +45,7 @@ I’m Sai Sravanthi Joshi
 </a>
 
 <a href="https://github.com/SaiSJoshi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SaiSJoshi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=joshi6sai@gmail.comi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
 <br>
@@ -64,7 +64,7 @@ I’m Sai Sravanthi Joshi
 <br>
 <br>
 
-## 💼 Other Skills
+## Other Skills
 Click to view:
 [Art Work: Behance](https://www.behance.net/sravanthijoshi)
 [Art Work: Facebook](https://www.facebook.com/sravanthijoshiartwork)

@@ -65,7 +65,7 @@ I’m Sai Sravanthi Joshi
 <br>
 
 ## 💼 Other Skills
-![Art Work](https://www.behance.net/sravanthijoshi)
+[Art Work](https://www.behance.net/sravanthijoshi)
 <br>
 <br>
 

@@ -54,9 +54,11 @@ I’m Sai Sravanthi Joshi
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+<br>
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Mathematica-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-RStudio-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+<br>
+![](https://img.shields.io/badge/Code-RStudio-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 
 
 <br>

@@ -38,11 +38,11 @@ I’m Sai Sravanthi Joshi
 
 ## &#x1f4c8; GitHub Stats
 
-<!-- <br>
+<br>
 
-<a href="https://github.com/SaiSJoshir">
+<a href="https://github.com/SaiSJoshi">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSJoshi&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> -->
+</a>
 
 <a href="https://github.com/SaiSJoshi">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SaiSJoshi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
@@ -65,7 +65,9 @@ I’m Sai Sravanthi Joshi
 <br>
 
 ## 💼 Other Skills
-[Art Work](https://www.behance.net/sravanthijoshi)
+Click to view:
+[Art Work: Behance](https://www.behance.net/sravanthijoshi)
+[Art Work: Facebook](https://www.facebook.com/sravanthijoshiartwork)
 <br>
 <br>
 

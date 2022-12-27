@@ -1,8 +1,7 @@
 <img src="banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 ## Bio
-Hello!
-I’m Sai Sravanthi Joshi a Bioengineer at the University of Pittsburgh.
+I’m currently pursuing MS Bioengineering @University of Pittsburgh. I am looking to collaborate on deep learning or machine learning projects related to sound, EEG signals, brain computer interface or any other Bioengineering reseach. I am always willing to explore new horizons. 
 
 <br>
 <br>

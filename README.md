@@ -10,7 +10,7 @@ I’m Sai Sravanthi Joshi a Bioengineer at the University of Pittsburgh.
 <br>
 <br>
 
-## Reseach Interests 
+## 🎯 Reseach Interests 
 - Brain-Computer Interface
 - Deep Learning for Bioengineering
 - Machine Learning for Neural Signal Processing
@@ -32,7 +32,7 @@ I’m Sai Sravanthi Joshi a Bioengineer at the University of Pittsburgh.
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sai-sravanthi-joshi/)
 
 
-## Code Space
+## :book: Code Space
 [![LinkedIn Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=codepen&logoColor=white&color=0D76A8)](https://www.kaggle.com/saisravanthijoshi/)
   
   
@@ -54,21 +54,19 @@ I’m Sai Sravanthi Joshi a Bioengineer at the University of Pittsburgh.
 <br>
 
 ## 💼 Skills
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-<br>
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-<br>
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-<br>
 ![](https://img.shields.io/badge/Code-Mathematica-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-<br>
 ![](https://img.shields.io/badge/Code-RStudio-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 
 <br>
 <br>
 
-## Other Skills
+## ⚡ Other Skills
 Click to view:
 <br>
 [Art Work: Behance](https://www.behance.net/sravanthijoshi)

@@ -9,12 +9,32 @@ SaiSJoshi/SaiSJoshi is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+## Reseach Interests 
+- Brain-Computer Interface
+- Deep Learning for Bioengineering
+- Machine Learning for Neural Signal Processing
+- Computer Vision and Image Segmentation for Biomedical Images 
+- Neural signals to Speech Conversion
+
+<br>
+<br>
+
+## Collaboration Interests 
+- Implementing Deep Learning methods for Neural Engineering
+
+<br>
+<br>
+
 ## Social Media
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/srav_joshi)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sai-sravanthi-joshi/)
 [![Kaggel Badge](https://img.shields.io/badge/Kaggel-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)]([https:](https://www.kaggle.com/saisravanthijoshi))
   
+  
+<br>
+<br>
+
 ## &#x1f4c8; GitHub Stats
 
 <!-- <br>
@@ -48,4 +68,5 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## Contact
-- 📫 Reach me on sravanthi.joshi@yahoo.com
+- ![IfemaFeriaDeMadridGIF](https://user-images.githubusercontent.com/95394670/209590598-fe048356-e6dd-44a6-b64c-fa611cd47bb1.gif)
+📫 Reach me on sravanthi.joshi@yahoo.com

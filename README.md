@@ -33,7 +33,7 @@ I’m Sai Sravanthi Joshi a Bioengineer at the University of Pittsburgh.
 
 
 ## Code Space
-[![LinkedIn Badge](https://img.shields.io/badge/Kaggel-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://www.kaggle.com/saisravanthijoshi/)
+[![LinkedIn Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://www.kaggle.com/saisravanthijoshi/)
   
   
 <br>

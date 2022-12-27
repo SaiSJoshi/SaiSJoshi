@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @Sai Sravanthi Joshi
-- 👀 I’m interested in Brain-Computer Interface, Deep Learning, Machine Learning for Neural signals
-- 🌱 I’m currently learning Deep Learning from Bhiksha Ramakrishnan
-- 💞️ I’m looking to collaborate on implementing Deep Learning methods for Neural Engineering 
-- 
 
 <!---
 SaiSJoshi/SaiSJoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Bio
+Hello!
+I’m Sai Sravanthi Joshi
+
+<br>
+<br>
 
 ## Reseach Interests 
 - Brain-Computer Interface
@@ -19,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-## Collaboration Interests 
+##🌱 Collaboration Interests 
 - Implementing Deep Learning methods for Neural Engineering
 
 <br>
@@ -56,17 +57,13 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
-
 <br>
 <br>
 
 ## 💼 Other Skills
 - ![Art Work](https://www.behance.net/sravanthijoshi)
-
-
 <br>
 <br>
 
 ## Contact
--![IfemaFeriaDeMadridGIF (2)](https://user-images.githubusercontent.com/95394670/209590777-f56546cc-19d3-40aa-97be-7227f4295e30.gif| width=10)
 📫 Reach me on sravanthi.joshi@yahoo.com

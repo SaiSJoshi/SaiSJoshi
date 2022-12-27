@@ -51,6 +51,8 @@ I’m currently pursuing MS Bioengineering @University of Pittsburgh. I am looki
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Mathematica-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)

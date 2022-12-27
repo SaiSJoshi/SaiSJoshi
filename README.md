@@ -40,12 +40,11 @@ I’m Sai Sravanthi Joshi
 
 <br>
 
-<a href="https://github.com/SaiSJoshi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSJoshi&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSJoshi)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 <a href="https://github.com/SaiSJoshi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=joshi6sai@gmail.comi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SaiSJoshii&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
 <br>

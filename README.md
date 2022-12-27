@@ -1,8 +1,5 @@
+<img src="banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
-<!---
-SaiSJoshi/SaiSJoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## Bio
 Hello!
 I’m Sai Sravanthi Joshi a Bioengineer at the University of Pittsburgh.

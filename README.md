@@ -30,6 +30,8 @@ My current academic endeavor is an MS in Bioengineering at the University of Pit
 
 ## :book: Code Space
 [![LinkedIn Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=codepen&logoColor=white&color=1CA2F1)](https://www.kaggle.com/saisravanthijoshi/)
+
+[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sravjoshi)](https://github.com/sravjoshi/geeksForGeeksStatsAPI)
   
   
 <br>

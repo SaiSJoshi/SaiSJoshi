@@ -80,10 +80,6 @@ Click to view:
 ## Contact
 📫 Reach me on sravanthi.joshi@yahoo.com
 
-## Counter
+
 ![](https://komarev.com/ghpvc/?username=SaiSJoshi)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 

@@ -2,9 +2,14 @@
 
 ## Bio
 My current academic endeavor is an MS in Bioengineering at the University of Pittsburgh. I'm interested in working with any deep learning or machine learning projects using sound, EEG signals, brain-computer interfaces, or any other bioengineering-related research.  I am always willing to explore new horizons.
+<br>
+<br>
 
-<br>
-<br>
+## 🕵️‍♀️ Key Expertise
+- Build models for human-centric issues
+- Fair understanding for Machine Learning  and Deep Learning
+- Expertise on signal processing
+- Deep understanding of problem solving
 
 ## 🎯 Reseach Interests 
 - Brain-Computer Interface
@@ -12,13 +17,12 @@ My current academic endeavor is an MS in Bioengineering at the University of Pit
 - Machine Learning for Neural Signal Processing
 - Computer Vision and Image Segmentation for Biomedical Images 
 - Neural signals to Speech Conversion
-
+- Adversarial Networks
 <br>
 <br>
 
 ## 🌱 Collaboration Interests 
 - Implementing Deep Learning methods for Neural Engineering
-
 <br>
 <br>
 
@@ -56,13 +60,17 @@ My current academic endeavor is an MS in Bioengineering at the University of Pit
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=linux&logoColor=white&color=1CA2F1)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=1CA2F1)
 <br>
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1CA2F1)
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Mathematica-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-RStudio-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 <br>
+![](https://img.shields.io/badge/Tools-Scikit%20Learn-yellowgreen)
+![](https://img.shields.io/badge/Tools-Tensorflow-yellowgreen)
+<br>
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=1CA2F1)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1CA2F1)
+
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=1CA2F1)
 
 <br>

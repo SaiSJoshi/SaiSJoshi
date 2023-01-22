@@ -109,7 +109,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 	</th>
 	
 	<td>
-		To teach the course, assist in learning and mentor students for projects.
+	To teach the course, assist in learning and mentor students for projects.
 	</td>
 </tr>
 	

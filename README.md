@@ -237,7 +237,7 @@ in an encouraging and motivating manner.
 
 
 | Year     | Type                | Topic                                                        | Location & Event                                | 
-| -----    | -----------------------------------------------------------------------------------| ----------------------------------------------- |  
+| -----    | ------------------- |--------------------------------------------------------------| ----------------------------------------------- |  
 | Mar 2016 | Oral Presentation   | Propagation of torsional tube waves in the solar atmosphere  | Ahmedabad - Physical Research Laboratory        | 
 | Feb 2016 | Poster Presentation | Propagation of torsional tube waves in the solar atmosphere  | Bangalore - National Conference on RTPS-16      |
 | Oct 2015 | Poster Presentation | Quiescent Solar Prominence Dynamics: A Mathematical Analysis | Bangalore - Neighborhood Astronomy Meeting IISc |

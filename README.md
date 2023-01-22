@@ -1,4 +1,4 @@
-<img src="4541-Socrates-Quote-Education-is-the-kindling-of-a-flame-not-the.jpg" alt="Introduction Banner.." style="text-align: center; margin-bottom: 10px;" />
+<img src="banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 10px;" />
 
 ## Bio
 I am a University of Pittsburgh Bioengineering graduate student with a focus on neural engineering. I am enthusiastic about solving real-world problems and making an impact that contributes to the human-centric challenges.
@@ -69,6 +69,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 ![](https://img.shields.io/badge/Other-MikTex-9cf)
 <br>
 <br>
+
 ## Social Media
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/srav_joshi)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/sai-sravanthi-joshi/)
@@ -79,6 +80,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
   
 <br>
 <br>
+
 ## &#x1f4c8; GitHub Stats
 <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSJoshi)](https://github.com/SaiSJoshi/github-readme-stats)
@@ -87,6 +89,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 <a href="https://github.com/SaiSJoshi">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SaiSJoshi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
+<br>
 <br>
 
 ## ⚡ Other Skills
@@ -97,6 +100,7 @@ Click to view:
 [Art Work: Facebook](https://www.facebook.com/sravanthijoshiartwork)
 <br>
 <br>
+
 ## Contact
 📫 Reach me on sravanthi.joshi@yahoo.com
 ![](https://komarev.com/ghpvc/?username=SaiSJoshi)

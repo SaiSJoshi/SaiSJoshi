@@ -7,7 +7,7 @@ I enjoy the process of designing and implementing deep learning or machine learn
 I am motivated by a challenge and enjoy the thrill of problem solving.
 Kaggle challenges have recently piqued my interest.
 <br>
-In my spare time, I like to read books and visit national parks. I occasionally devote time to perfecting my creative abilities, such as sketching, painting, playing games and playing guitar or drums. My artwork can be found at the link below under other skills.
+In my spare time, I like to read books and visit national parks. I occasionally spent time to perfect my creative abilities, such as sketching, painting, playing games and playing guitar or drums. My artwork can be found at the link below under other skills.
 '#newfoundgames - Journey'
 <br>
 ## 🕵️‍♀️ Key Expertise
@@ -30,6 +30,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 - Computer Vision and Image Segmentation for Biomedical Images 
 - Neural signals to Speech Conversion
 - Adversarial Networks
+- Neural Networks
 <br>
 <br>
 

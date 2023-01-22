@@ -22,6 +22,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 - Research and apply knowledge to real-world problems
 <br>
 <br>
+
 ## 🎯 Reseach Interests 
 - Brain-Computer Interface
 - Deep Learning for Bioengineering
@@ -86,12 +87,14 @@ In my spare time, I like to read books and visit national parks. I occasionally 
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SaiSJoshi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 <br>
+
 ## ⚡ Other Skills
 Click to view:
 <br>
 [Art Work: Behance](https://www.behance.net/sravanthijoshi)
 <br>
 [Art Work: Facebook](https://www.facebook.com/sravanthijoshiartwork)
+<br>
 <br>
 ## Contact
 📫 Reach me on sravanthi.joshi@yahoo.com

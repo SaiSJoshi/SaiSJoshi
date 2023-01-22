@@ -182,9 +182,10 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 </tr>
 	
 <tr>
-<th align="center">
+<th>
 	May 2017 - Sep 2018
-	<Assistant Teacher>
+	<br>
+	Assistant Teacher
 	<br>
 	Pragna Bharathi School 
 	<br>
@@ -200,7 +201,8 @@ in an encouraging and motivating manner.
 <tr>
 <th align="center">
 	Dec 2016 - May 2017
-	<Academic Expert>
+	<br>
+	Academic Expert
 	<br>
 	Vedantu Innovations Pvt. Ltd 
 	<br>

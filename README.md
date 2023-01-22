@@ -1,10 +1,14 @@
 <img src="banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 ## Bio
-I am a graduating Bioengineering student with neural engineering track from the University of Pittsburgh. I am passionate about solving real world problems and make an  and make an impact that contributes towards human centric domain. 
-I love the process of designing and implementing deep learning or machine learning projects using sound, EEG signals, brain-computer interfaces, or any other bioengineering-related research. I am also intersted to explore new horizons which are unexplored by me.
-I am driven by a challenge and love to experience the thrill of solving problems
-I have lately developed facination for kaggle challenges
+I am a University of Pittsburgh Bioengineering graduate student with a focus on neural engineering. I am enthusiastic about solving real-world problems and making an impact that contributes to the human-centric domain.
+<br>
+I enjoy the process of designing and implementing deep learning or machine learning projects that make use of sound,text,speech, EEG signals, brain-computer interfaces, or other research fields. I am also interested in exploring new horizons that I have not yet explored.
+I am motivated by a challenge and enjoy the thrill of problem solving.
+Kaggle challenges have recently piqued my interest.
+<br>
+In my spare time, I like to read books and visit national parks. I occasionally devote time to perfecting my creative abilities, such as sketching, painting, playing games and playing guitar or drums. My artwork can be found at the link below under other skills.
+'#newfoundgames - Journey'
 <br>
 ## 🕵️‍♀️ Key Expertise
 - Build models for human-centric issues
@@ -56,9 +60,6 @@ I have lately developed facination for kaggle challenges
 ![](https://img.shields.io/badge/Other-LaTex-9cf)
 ![](https://img.shields.io/badge/Other-Beamer-9cf)
 ![](https://img.shields.io/badge/Other-MikTex-9cf)
-
-
-<br>
 <br>
 ## Social Media
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/srav_joshi)
@@ -78,12 +79,7 @@ I have lately developed facination for kaggle challenges
 <a href="https://github.com/SaiSJoshi">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SaiSJoshi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
-
 <br>
-<br>
-
-
-
 ## ⚡ Other Skills
 Click to view:
 <br>
@@ -91,11 +87,7 @@ Click to view:
 <br>
 [Art Work: Facebook](https://www.facebook.com/sravanthijoshiartwork)
 <br>
-<br>
-
 ## Contact
 📫 Reach me on sravanthi.joshi@yahoo.com
-
-
 ![](https://komarev.com/ghpvc/?username=SaiSJoshi)
 

@@ -104,8 +104,8 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 	</th>
 </tr>
 <tr>
-<th align="center">
-	Jan 2023 to May 2023 
+<th>
+	Jan 2023 - May 2023 
 	<br>
 	Teaching Assistant 
 	<br>
@@ -119,8 +119,10 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 </tr>
 	
 <tr>
-<th align="center">
-	Aug 2021 to Dec 2021 - Peer Learning Assistant
+<th>
+	Aug 2021 - Dec 2021 
+	<br>
+	Peer Learning Assistant
 	<br>
 	Mechanics Lab - WPI
 	<br>
@@ -132,8 +134,10 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 </tr>
 	
 <tr>
-<th align="center">
-	Aug 2021 to Dec 2021 - Peer Learning Assistant 
+<th>
+	Aug 2021 - Dec 2021 
+	<br>
+	Peer Learning Assistant 
 	<br>
 	Modern Physics Lab - WPI
 	<br>
@@ -146,22 +150,26 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 	
 	
 <tr>
-<th align="center">
-	Jul 2018 to Jul 2019 
+<th >
+	Jul 2018 - Jul 2019 
 	<br>
-	Subject Matter Expert Physics and Mathematics 
+	Subject Matter Expert 
+	<br>
+	
 	<br>
 	Chegg India (Online)
 	<br>
 	India
 </th>
 
-<td> Creator of physics and math content who places a strong emphasis on real-world application and implementation.
+<td>  Creator of physics and math content who places a strong emphasis on real-world application and implementation.
+	<br>
+	Sub: Physics and Mathematics 
 </tr>
 	
 <tr>
-<th align="center">
-	May 2017 to Jun 2017
+<th>
+	May 2017 - Jun 2017
 	<Internship>
 	<br>
 	International Centre for Theoretical Sciences (ICTS)-TIFR 
@@ -175,7 +183,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 	
 <tr>
 <th align="center">
-	May 2017 to Sep 2018
+	May 2017 - Sep 2018
 	<Assistant Teacher>
 	<br>
 	Pragna Bharathi School 
@@ -191,7 +199,7 @@ in an encouraging and motivating manner.
 	
 <tr>
 <th align="center">
-	Dec 2016 to May 2017
+	Dec 2016 - May 2017
 	<Academic Expert>
 	<br>
 	Vedantu Innovations Pvt. Ltd 

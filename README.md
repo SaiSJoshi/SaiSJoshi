@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+<img src="4541-Socrates-Quote-Education-is-the-kindling-of-a-flame-not-the.jpg" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 ## Bio
 I am a University of Pittsburgh Bioengineering graduate student with a focus on neural engineering. I am enthusiastic about solving real-world problems and making an impact that contributes to the human-centric challenges.

@@ -1,5 +1,11 @@
 <img src="Slide1.jpg" alt="Introduction Banner.." style="text-align: center; margin-bottom: 10px;" />
 
+## Contact
+📫 Reach me on sravanthi.joshi@yahoo.com 
+![](https://komarev.com/ghpvc/?username=SaiSJoshi)
+<br>
+<br>
+
 ## Bio
 I am a University of Pittsburgh Bioengineering graduate student with a focus on neural engineering. I am enthusiastic about solving real-world problems and making an impact that contributes to the human-centric challenges.
 <br>
@@ -168,9 +174,10 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 <tr>
 <th>
 	May 2017 - Jun 2017
-	<Internship>
 	<br>
-	International Centre for Theoretical Sciences (ICTS)-TIFR 
+	Internship
+	<br>
+	International Centre for Theoretical Sciences(ICTS)
 	<br>
 	Bangalore, KA, India
 	
@@ -237,6 +244,23 @@ in an encouraging and motivating manner.
 <br>
 <br>
 
+## Presenations and Workshops
+
+| Year      | Type                | Topic                                                       | Location & Event                  | 
+| -----     | -------------------------------------------------------------------------------  -| --------------------------      | 
+| Mar 2016  | Oral Presentation   | Propagation of torsional tube waves in the solar atmosphere | Ahmedabad - Physical Research Laboratory | 
+| Feb 2016  | Poster Presentation | Propagation of torsional tube waves in the solar atmosphere | Bangalore - National Conference on RTPS-16|
+| Oct 2015  | Poster Presentation |Quiescent Solar Prominence Dynamics: A Mathematical Analysis |Bangalore - Neighborhood Astronomy Meeting IISc   |
+|Mar 2016   | Participation | Exploration of inner Solar System Objects|  Ahmedabad - Physical Research Laboratory|
+|Feb 2016   | Participation | National Conference on Recent Trends in Physical Sciences| Bangalore - Jain University|
+|Jan 2016   |Workshop|One Day Workshop on Acoustic Microscopy|Bangalore - Jain University|
+|Sep 2015|Workshop|Science Academies Lecture Workshop on Crystallography|Bangalore - IISc|
+|Sep 2014|Workshop|Statistical Mechanics and Quantum Mechanics|Bangalore - IISc|
+
+
+<br>
+<br>
+
 ## ⚡ Other Skills
 Click to view:
 <br>
@@ -246,7 +270,5 @@ Click to view:
 <br>
 <br>
 
-## Contact
-📫 Reach me on sravanthi.joshi@yahoo.com
-![](https://komarev.com/ghpvc/?username=SaiSJoshi)
+
 

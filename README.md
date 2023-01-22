@@ -105,7 +105,7 @@ Experience
 </tr>
 <tr>
 <td align="center">
-	**2023**
+	2023
 	<br> 
 	Teaching Assistant
   

@@ -155,8 +155,6 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 	<br>
 	Subject Matter Expert 
 	<br>
-	
-	<br>
 	Chegg India (Online)
 	<br>
 	India

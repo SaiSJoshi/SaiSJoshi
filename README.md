@@ -31,9 +31,12 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 - Adversarial Networks
 <br>
 <br>
+
 ## 🌱 Collaboration Interests 
 - Implementing Deep Learning methods for Neural Engineering
 <br>
+<br>
+
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=1CA2F1)

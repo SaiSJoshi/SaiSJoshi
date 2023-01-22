@@ -70,6 +70,46 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 <br>
 <br>
 
+## Education
+
+<div style="float: left; width: 50%;">
+  <p>Some explanation goes here</p>
+  <p>Another example...</p>
+</div>
+<div tyle="float: right; width: 50%;">
+  <pre> // some code goes here </pre>
+  <pre> // more example code goes here </pre>
+</div>
+
+###### University of Pittsburgh | Swanson School of Engineering , _Pittsburgh, PA, USA_
+MS Bio-engineering - Neural Engineering Track - Jan}{2022}{Apr}{2023}}
+
+\begin{indentsection}
+	\skill{Computer Science Courses: }{\newline Machine Learning,\quad Introduction to Deep Learning (CMU),\quad Introduction to Computer Vision,\quad \newline AI Applications in Bio-engineering, \quad Pattern Recognition, \quad Practical Statistics Using R and Python}
+	\skill{Neural Engineering Courses: }{\newline Introduction to Neural Engineering, \quad Learning and Control of Movement,\quad \newline Quantitative Systems Neuroscience,\quad  Neural Signal Processing(CMU), \newline Neuro-imaging in Psychiatry }
+\end{indentsection}
+
+\headedsection
+{Worcester Polytechnic Institute}
+{Worcester, MA, USA}
+{MS Applied Physics - Transferred }
+{\period {Aug}{2021}{Jan}{2022}}{GPA: 3.41/4.00}
+
+\headedsection
+{Jain University-Center for Post Graduate Studies}
+{Bangalore, India}
+{M.Sc. Physics (Specialization: Materials Science)}
+{\period {July}{2014}{June}{2016}}{}
+
+\headedsection
+{Bangalore University}
+{Bangalore, India}
+{B.Sc. Physics, Mathematics and Electronics}
+{\period {July}{2010}{May}{2013}}{}
+
+<br>
+<br>
+
 ## Social Media
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/srav_joshi)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/sai-sravanthi-joshi/)

@@ -105,96 +105,107 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 </tr>
 <tr>
 <th align="center">
-	2023 - Teaching Assistant
+	Jan 2023 to May 2023 
+	<br>
+	Teaching Assistant 
+	<br>
+	Carnegie Mellon University
+	<br>
+	Pittsburgh, PA, USA
 </th>
 
-<td> To teach the course, assist in learning and mentor students for projects.
+<td> Despite having secured the position through the interview process, I was unable to accept my offer due to visa restrictions. The offered role was to teach, grade, and mentor students in groups of about 15 to help them with projects for the course 11785 - Introduction to Deep Learning.
 </td>
 </tr>
 	
+<tr>
+<th align="center">
+	Aug 2021 to Dec 2021 - Peer Learning Assistant
+	<br>
+	Mechanics Lab - WPI
+	<br>
+	Worcester, Massachusetts, USA
+</th>
+
+<td> To assist and grade students in the mechanics lab, which was primarily taught in Python to encourage undergraduates and help them understand the physics principles with hand on experience in concepts mechanics lab. 
+</td>
+</tr>
+	
+<tr>
+<th align="center">
+	Aug 2021 to Dec 2021 - Peer Learning Assistant 
+	<br>
+	Modern Physics Lab - WPI
+	<br>
+	Worcester, Massachusetts, USA
+</th>
+
+<td> To assist and grade students in the mechanics lab, which was primarily taught in Python to encourage undergraduates and help them understand the physics principles with hand on experience in concepts modern physics lab. 
+</td>
+</tr>
+	
+	
+<tr>
+<th align="center">
+	Jul 2018 to Jul 2019 
+	<br>
+	Subject Matter Expert Physics and Mathematics 
+	<br>
+	Chegg India (Online)
+	<br>
+	India
+</th>
+
+<td> Creator of physics and math content who places a strong emphasis on real-world application and implementation.
+</tr>
+	
+<tr>
+<th align="center">
+	May 2017 to Jun 2017
+	<Internship>
+	<br>
+	International Centre for Theoretical Sciences (ICTS)-TIFR 
+	<br>
+	Bangalore, KA, India
+	
+</th>
+
+<td> Cosmology - The End of Space-time and Beyond
+</tr>
+	
+<tr>
+<th align="center">
+	May 2017 to Sep 2018
+	<Assistant Teacher>
+	<br>
+	Pragna Bharathi School 
+	<br>
+	Bangalore, KA, India
+	
+</th>
+
+<td> Taught physics and chemistry to higher secondary students. I put my best to teach
+in an encouraging and motivating manner.
+</tr>
+	
+	
+<tr>
+<th align="center">
+	Dec 2016 to May 2017
+	<Academic Expert>
+	<br>
+	Vedantu Innovations Pvt. Ltd 
+	<br>
+	Bangalore, KA, India
+	
+</th>
+
+<td> Full time job to evaluate and test the quality of subject experts recruited by the company. The other responsibilities was to develop a structure to coordinate and ensure the knowledge of the experts was up to date.
+</tr>	
 </table>
 
 <br>
 <br>
-
-\roottitle{WORK EXPERIENCE}
-
-\headedsection
-{\href{https://www.wpi.edu/}{Teaching Assistant-ship (Offered but could not accept due to visa restrictions)}}
-{Carnegie Mellon University, PA, USA}
-{11785 - Introduction to deep learning}
-{\period{Jan}{2023}{Apr}{2023}}{
-\vspace{-2.4ex}
-\begin{circlist}	
-	\item To teach the course, assist in learning and mentor students for projects.
-\end{circlist}
-}
-
-\headedsection
-{\href{https://www.wpi.edu/}{Peer Learning Assistant}}
-{Worcester, Massachusetts, USA}
-{Mechanics Lab - WPI}
-{\period{Aug}{2021}{Dec}{2021}}{
-\vspace{-2.4ex}
-\begin{circlist}	
-	\item Taught and graded Mechanics lab for undergraduates.
-\end{circlist}
-}
-
-\headedsection
-{\href{https://www.wpi.edu/}{Peer Learning Assistant}}
-{Worcester, Massachusetts, USA}
-{Modern Physics - WPI}
-{\period{Aug}{2021}{Dec}{2021}}{
-\vspace{-2.4ex}
-\begin{circlist}	
-	\item Taught and graded Modern Physics lab for undergraduates.
-\end{circlist}
-}
-
-\headedsection
-{\href{https://www.chegg.com/}{Subject Matter Expert Physics and Mathematics}}
-{India}
-{Chegg India (Online)}
-{\period{Jul}{2018}{Jul}{2019}}{
-\vspace{-2.4ex}
-\begin{circlist}	
-	\item Content developer for Physics and Maths with emphasis on practical application and
-implementation for daily life.
-\end{circlist}
-}
-
-\headedsection
-{\href{https://www.icts.res.in/}{Internship at ICTS-TIFR}}
-{Bangalore, India}
-{Cosmology - The End of Space-time and Beyond}
-{\period{May}{2017}{Jun}{2017}}{
-\vspace{-2.4ex}
-}
-
-\headedsection
-{\href{https://prajnabharathi.com/}{Assistant Teacher}}
-{Bangalore, India}
-{Pragna Bharathi School}
-{\period{May}{2017}{Sep}{2018}}{
-\vspace{-2.4ex}
-\begin{circlist}	
-	\item Taught physics and chemistry to higher secondary students and was applauded for \newline teaching
-in an encouraging and motivating manner.
-\end{circlist}
-}
-
-\headedsection
-{\href{https://www.vedantu.com/}{Academic Expert}}
-{Bangalore, India}
-{Vedantu Innovations Pvt. Ltd}
-{\period{Dec}{2016}{May}{2017}}{
-\vspace{-2.4ex}
-\begin{circlist}	
-	\item Full time job to evaluate and test the quality of subject experts recruited by the company.
-\end{circlist}
-}
-
 
 ## Social Media
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/srav_joshi)

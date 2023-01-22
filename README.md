@@ -1,7 +1,7 @@
 <img src="banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 ## Bio
-I am a University of Pittsburgh Bioengineering graduate student with a focus on neural engineering. I am enthusiastic about solving real-world problems and making an impact that contributes to the human-centric domain.
+I am a University of Pittsburgh Bioengineering graduate student with a focus on neural engineering. I am enthusiastic about solving real-world problems and making an impact that contributes to the human-centric challenges.
 <br>
 I enjoy the process of designing and implementing deep learning or machine learning projects that make use of sound,text,speech, EEG signals, brain-computer interfaces, or other research fields. I am also interested in exploring new horizons that I have not yet explored.
 I am motivated by a challenge and enjoy the thrill of problem solving.

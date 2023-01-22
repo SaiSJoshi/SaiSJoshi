@@ -239,8 +239,10 @@ in an encouraging and motivating manner.
 <br>
 
 ## &#x1f4c8; GitHub Stats
+
 <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSJoshi)](https://github.com/SaiSJoshi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSJoshi)](https://github.com/SaiSJoshi/github-readme-stats)
  
 
 <a href="https://github.com/SaiSJoshi">

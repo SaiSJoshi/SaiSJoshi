@@ -73,6 +73,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 ![](https://img.shields.io/badge/Other-LaTex-9cf)
 ![](https://img.shields.io/badge/Other-Beamer-9cf)
 ![](https://img.shields.io/badge/Other-MikTex-9cf)
+
 <br>
 <br>
 

@@ -113,19 +113,6 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 	</td>
 </tr>
 	
-<tr>
-	<>
-
-	
-<\tr>	
-<tr>
-<td align="center">
-Column 1
-</td>
-<td align="center">
-Column 2
-</td>
-</tr>
 </table>
 
 <br>

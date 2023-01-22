@@ -236,16 +236,16 @@ in an encouraging and motivating manner.
 ## Presenations and Workshops
 
 
-| Year    | Type                | Topic                                                      | Location & Event                               | 
-| -----   | ---------------------------------------------------------------------------------| ---------------------------------------------- |  
-| Mar 2016| Oral Presentation  | Propagation of torsional tube <br> waves in the solar atmosphere |Ahmedabad - Physical Research Laboratory        | 
-| Feb 2016| Poster Presentation| Propagation of torsional tube waves in the solar atmosphere |Bangalore - National Conference on RTPS-16      |
-| Oct 2015| Poster Presentation| Quiescent Solar Prominence Dynamics: A Mathematical Analysis |Bangalore - Neighborhood Astronomy Meeting IISc |
-|Mar 2016 | Participation      | Exploration of inner Solar System Objects                   |Ahmedabad - Physical Research Laboratory        |
-|Feb 2016 | Participation      | National Conference on Recent Trends in Physical Sciences   |Bangalore - Jain University                     |
-|Jan 2016 | Workshop           | One Day Workshop on Acoustic Microscopy                      |Bangalore - Jain University                     |
-|Sep 2015 | Workshop           | Science Academies Lecture Workshop on Crystallography        |Bangalore - IISc                                | 
-|Sep 2014 | Workshop           | Statistical Mechanics and Quantum Mechanics                  |Bangalore - IISc                                |
+| Year     | Type                | Topic                                                        | Location & Event                                | 
+| -----    | -----------------------------------------------------------------------------------| ----------------------------------------------- |  
+| Mar 2016 | Oral Presentation   | Propagation of torsional tube waves in the solar atmosphere  | Ahmedabad - Physical Research Laboratory        | 
+| Feb 2016 | Poster Presentation | Propagation of torsional tube waves in the solar atmosphere  | Bangalore - National Conference on RTPS-16      |
+| Oct 2015 | Poster Presentation | Quiescent Solar Prominence Dynamics: A Mathematical Analysis | Bangalore - Neighborhood Astronomy Meeting IISc |
+| Mar 2016 | Participation       | Exploration of inner Solar System Objects                    | Ahmedabad - Physical Research Laboratory        |
+| Feb 2016 | Participation       | National Conference on Recent Trends in Physical Sciences    | Bangalore - Jain University                     |
+| Jan 2016 | Workshop            | One Day Workshop on Acoustic Microscopy                      | Bangalore - Jain University                     |
+| Sep 2015 | Workshop            | Science Academies Lecture Workshop on Crystallography        | Bangalore - IISc                                | 
+| Sep 2014 | Workshop            | Statistical Mechanics and Quantum Mechanics                  | Bangalore - IISc                                |
 
 <br>
 <br>

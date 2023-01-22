@@ -104,13 +104,12 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 	</th>
 </tr>
 <tr>
-	<th align="center">
-		2023 - Teaching Assistant
-	</th>
-	
-	<td>
-	To teach the course, assist in learning and mentor students for projects.
-	</td>
+<th align="center">
+	2023 - Teaching Assistant
+</th>
+
+<td> To teach the course, assist in learning and mentor students for projects.
+</td>
 </tr>
 	
 </table>

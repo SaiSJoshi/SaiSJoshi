@@ -45,7 +45,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=linux&logoColor=white&color=1CA2F1)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=1CA2F1)
 <br>
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Mathematica-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
@@ -59,8 +59,8 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 ![](https://img.shields.io/badge/Tools-Deep%20Learning%20Tool%20Kit-yellow)
 ![](https://img.shields.io/badge/Tools-Signal%20Processing%20Tool%20Kit-yellow)
 <br>
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=1CA2F1)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=1CA2F1)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=9cf)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=9cf)
 <br>
 ![](https://img.shields.io/badge/Other-SimpleITK-9cf)
 ![](https://img.shields.io/badge/Other-Paraview-9cf)

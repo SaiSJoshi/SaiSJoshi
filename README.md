@@ -105,7 +105,9 @@ Experience
 </tr>
 <tr>
 <td align="center">
-**2023** <br>*Teaching Assistant*
+	**2023**
+	<br> 
+	Teaching Assistant
   
 </td>
 <td>

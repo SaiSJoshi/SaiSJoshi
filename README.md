@@ -76,20 +76,6 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 <br>
 <br>
 
-<! ---
-## Education
-
-| Year  | Degree Obtained                         | University Name                 | Location           |
-| ----- | --------------------------------------- | --------------------------      | --------------     | 
-| 2023  | MS Bio-engineering - Neural Engineering | University of Pittsburgh        | Pittsburgh,PA, USA |
-| 2022  | MS Applied Physics                      | Worcester Polytechnic Institute | Worcester, MA, USA |
-| 2016  | M.Sc. Physics (Spl: Materials Science)  |Jain University                  |Bangalore, India    |
-| 2013  | B.Sc. Physics,Mathematics &  Electronics|Bangalore University             |Bangalore, India    |
-
-<br>
-<br>
- -->
- <br>
 ## Work Experience
 
 <table>

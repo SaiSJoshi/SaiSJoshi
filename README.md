@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 10px;" />
+<img src="Slide1.jpg" alt="Introduction Banner.." style="text-align: center; margin-bottom: 10px;" />
 
 ## Bio
 I am a University of Pittsburgh Bioengineering graduate student with a focus on neural engineering. I am enthusiastic about solving real-world problems and making an impact that contributes to the human-centric challenges.

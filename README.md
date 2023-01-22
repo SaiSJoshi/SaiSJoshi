@@ -21,6 +21,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 - Fair understanding of Data Analysis
 - Research and apply knowledge to real-world problems
 <br>
+<br>
 ## 🎯 Reseach Interests 
 - Brain-Computer Interface
 - Deep Learning for Bioengineering
@@ -28,6 +29,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 - Computer Vision and Image Segmentation for Biomedical Images 
 - Neural signals to Speech Conversion
 - Adversarial Networks
+<br>
 <br>
 ## 🌱 Collaboration Interests 
 - Implementing Deep Learning methods for Neural Engineering
@@ -60,6 +62,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 ![](https://img.shields.io/badge/Other-LaTex-9cf)
 ![](https://img.shields.io/badge/Other-Beamer-9cf)
 ![](https://img.shields.io/badge/Other-MikTex-9cf)
+<br>
 <br>
 ## Social Media
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/srav_joshi)

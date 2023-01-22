@@ -86,35 +86,38 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 
 <table>
 <tr>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
-Year and Role
-</small>
-</p>
-</th>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
-Experience
-</small>
-</p>
-</th>
+	<th align="center">
+		<img width="441" height="1">
+	<p> 
+		<small>
+		Year and Role
+		</small>
+	</p>
+	</th>
+	<th align="center">
+		<img width="441" height="1">
+	<p> 
+		<small>
+		Experience
+	</small>
+	</p>
+	</th>
 </tr>
 <tr>
-<td align="center">
-	2023
-	<br> 
-	Teaching Assistant
-  
-</td>
-<td>
-To teach the course, assist in learning and mentor students for projects.
-  
-</td>
+	<th align="center">
+		2023 - Teaching Assistant
+	</th>
+	
+	<td>
+		To teach the course, assist in learning and mentor students for projects.
+	</td>
 </tr>
+	
+<tr>
+	<>
+
+	
+<\tr>	
 <tr>
 <td align="center">
 Column 1

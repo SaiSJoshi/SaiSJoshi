@@ -81,7 +81,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 
 <table>
 <tr>
-	<th align="center">
+	<th >
 		<img width="441" height="1">
 	<p> 
 		<small>
@@ -89,7 +89,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 		</small>
 	</p>
 	</th>
-	<th align="center">
+	<th >
 		<img width="441" height="1">
 	<p> 
 		<small>
@@ -102,7 +102,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 <th>
 	Deep Learning
 	<br>
-	- I’m Something of a Painter Myself
+	I’m Something of a Painter Myself
 	<br>
 	Kaggle Challenge
 </th>

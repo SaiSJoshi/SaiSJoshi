@@ -77,7 +77,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 <br>
 <br>
 
-## Work Experience
+## Mini - Projects
 
 <table>
 <tr>
@@ -85,7 +85,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 		<img width="441" height="1">
 	<p> 
 		<small>
-		Year and Role
+		Name
 		</small>
 	</p>
 	</th>
@@ -93,119 +93,169 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 		<img width="441" height="1">
 	<p> 
 		<small>
-		Experience
+		Task
 	</small>
 	</p>
 	</th>
 </tr>
 <tr>
 <th>
-	Jan 2023 - May 2023 
+	Deep Learning
 	<br>
-	Teaching Assistant 
+	- I’m Something of a Painter Myself
 	<br>
-	Carnegie Mellon University
-	<br>
-	Pittsburgh, PA, USA
+	Kaggle Challenge
 </th>
 
-<td> Despite having secured the position through the interview process, I was unable to accept my offer due to visa restrictions. The offered role was to teach, grade, and mentor students in groups of about 15 to help them with projects for the course 11785 - Introduction to Deep Learning.
+<td> The goal of this competition is to implement GAN and evaluated on MiFID (Memorization-informed Frechet Inception ´
+Distance), which is a modification from Frechet Inception Distance (FID). The smaller the MiFID is, the better the ´
+generated images are.
+
 </td>
 </tr>
 	
 <tr>
 <th>
-	Aug 2021 - Dec 2021 
+	Deep learning
 	<br>
-	Peer Learning Assistant
+	RSNA Screening Mammography Breast Cancer Detection
 	<br>
-	Mechanics Lab - WPI
-	<br>
-	Worcester, Massachusetts, USA
+	Kaggle Challenge
+	
 </th>
 
-<td> To assist and grade students in the mechanics lab, which was primarily taught in Python to encourage undergraduates and help them understand the physics principles with hand on experience in concepts mechanics lab. 
-</td>
+<td> The goal of this competition is to identify breast cancer. The task is to train your model with screening mammograms
+obtained from regular screening and work on improving the automation of detection in screening mammography may
+enable radiologists to be more accurate and efficient, improving the quality and safety of patient care. It could also help
+reduce costs and unnecessary medical procedures
 </tr>
 	
 <tr>
 <th>
-	Aug 2021 - Dec 2021 
+	Deep learning 
 	<br>
-	Peer Learning Assistant 
+	Automatic Speech recognition (ASR)
 	<br>
-	Modern Physics Lab - WPI
-	<br>
-	Worcester, Massachusetts, USA
+	Kaggle Challenge @ CMU
 </th>
 
-<td> To assist and grade students in the mechanics lab, which was primarily taught in Python to encourage undergraduates and help them understand the physics principles with hand on experience in concepts modern physics lab. 
+<td> To perform automatic speech recognition using Levinshteiin Distance for evaluation. Obtained 5.04 accuracy
 </td>
 </tr>
 	
 	
 <tr>
 <th >
-	Jul 2018 - Jul 2019 
+	Deep learning 
 	<br>
-	Subject Matter Expert 
+	Face Recognition and Verification
 	<br>
-	Chegg India (Online)
-	<br>
-	India
+	Kaggle Challenge @ CMU
 </th>
 
-<td>  Creator of physics and math content who places a strong emphasis on real-world application and implementation.
-	<br>
-	Sub: Physics and Mathematics 
+<td>   To implement CNN based architecture using ResNet, MobileNet, ConvNet for face recognition in images. Obtained 91.4
+percent accuracy.
+ 
 </tr>
 	
 <tr>
 <th>
-	May 2017 - Jun 2017
+	Deep learning
 	<br>
-	Internship
+	Attention Based End to End Speech to Text Deep Neural Network
 	<br>
-	International Centre for Theoretical Sciences(ICTS)
-	<br>
-	Bangalore, KA, India
+	Kaggle Challenge @ CMU
 	
 </th>
 
-<td> Cosmology - The End of Space-time and Beyond
+<td> To implement sequence-to-sequence conversion, encoder-decoder architectures and attention.
 </tr>
 	
 <tr>
 <th>
-	May 2017 - Sep 2018
+	Deep learning
 	<br>
-	Assistant Teacher
+	Utterance to Phoneme Mapping
 	<br>
-	Pragna Bharathi School 
-	<br>
-	Bangalore, KA, India
+	Kaggle Challenge @ CMU
 	
 </th>
 
-<td> Taught physics and chemistry to higher secondary students. I put my best to teach
-in an encouraging and motivating manner.
+<td> To implement CTC (Connectionist Temporal Classification) and Decoding Strategies (Beam Search).
 </tr>
-	
-	
+
 <tr>
-<th align="center">
-	Dec 2016 - May 2017
+<th>
+	Deep learning
 	<br>
-	Academic Expert
+	Frame-Level Speech recognition
 	<br>
-	Vedantu Innovations Pvt. Ltd 
-	<br>
-	Bangalore, KA, India
+	Kaggle Challenge @ CMU
 	
 </th>
 
-<td> Full time job to evaluate and test the quality of subject experts recruited by the company. The other responsibilities was to develop a structure to coordinate and ensure the knowledge of the experts was up to date.
-</tr>	
+<td> To create a multilayer perceptron for frame-level speech recognition. Obtained 87 percent accuracy
+</tr>
+
+
+<tr>
+<th>
+	Machine learning
+	<br>
+	Boston Dataset
+	<br>
+	@ WPI
+	
+</th>
+
+<td> To analyze the data by performing different types of regression on the data using sklearn.
+</tr>
+
+
+<tr>
+<th>
+	Machine learning
+	<br>
+	MNIST Dataset
+	<br>
+	@ WPI
+	
+</th>
+
+<td> To design and test KMean Clustering, PCA, decision tree, random forest,
+support vector machine (SVM), autoencoder classifier on the MNIST dataset
+<br>
+To build a deep neural network with 5 hidden layers of 100 neurons each (with Xavier initialization, batch normalization,
+and ReLU activation function), and train it using Adam optimizer and early stopping on the MNIST dataset using sklearn.
+</tr>
+
+
+<tr>
+<th>
+	Machine learning
+	<br>
+	Diabetic Dataset
+	<br>
+	@ WPI
+	
+</th>
+
+<td> To design and test lasso elastic net
+</tr>
+
+<tr>
+<th>
+	Machine learning
+	<br>
+	Olivetti Faces Database
+	<br>
+	@ WPI
+	
+</th>
+
+<td> To design and test PCA and factor analysis on the Olivetti Faces Database.
+</tr>
+
 </table>
 
 <br>

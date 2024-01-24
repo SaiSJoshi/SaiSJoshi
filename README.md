@@ -265,8 +265,7 @@ and ReLU activation function), and train it using Adam optimizer and early stopp
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/sai-sravanthi-joshi/)
 ## :book: Code Space
 [![LinkedIn Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=codepen&logoColor=white&color=1CA2F1)](https://www.kaggle.com/saisravanthijoshi/)
-
-[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sravjoshi)](https://github.com/sravjoshi/geeksForGeeksStatsAPI)
+![Leetcode Stats](https://leetcode.com/SaiSJoshi/)
   
 <br>
 <br>

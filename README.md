@@ -81,7 +81,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/sai-sravanthi-joshi/)
 ## :book: Code Space
 [![LinkedIn Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=codepen&logoColor=white&color=1CA2F1)](https://www.kaggle.com/saisravanthijoshi/)
-![Leetcode Stats](https://leetcard.SaiSJoshi.cool/SaiSJoshi)
+[![Leetcode Stats](https://leetcard.SaiSJoshi.cool/SaiSJoshi)](https://leetcard.jacoblin.cool/SaiSJoshi?theme=dark&font=Alef)
   
 <br>
 <br>

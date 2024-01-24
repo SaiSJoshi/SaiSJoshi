@@ -77,6 +77,15 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 <br>
 <br>
 
+## Social Media
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/sai-sravanthi-joshi/)
+## :book: Code Space
+[![LinkedIn Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=codepen&logoColor=white&color=1CA2F1)](https://www.kaggle.com/saisravanthijoshi/)
+![Leetcode Stats](https://leetcard.SaiSJoshi.cool/SaiSJoshi)
+  
+<br>
+<br>
+
 ## Mini - Projects
 
 <table>
@@ -261,14 +270,6 @@ and ReLU activation function), and train it using Adam optimizer and early stopp
 <br>
 <br>
 
-## Social Media
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/sai-sravanthi-joshi/)
-## :book: Code Space
-[![LinkedIn Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=codepen&logoColor=white&color=1CA2F1)](https://www.kaggle.com/saisravanthijoshi/)
-![Leetcode Stats](https://leetcode.com/SaiSJoshi/)
-  
-<br>
-<br>
 
 ## Presenations and Workshops
 

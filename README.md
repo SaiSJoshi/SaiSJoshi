@@ -73,7 +73,7 @@ I am Data Scientist and a Neural Engineering.
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/sai-sravanthi-joshi/)
 ## :book: Code Space
 [![LinkedIn Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=codepen&logoColor=white&color=1CA2F1)](https://www.kaggle.com/saisravanthijoshi/)
-[![Leetcode Stats](https://leetcard.SaiSJoshi.cool/SaiSJoshi)](https://leetcode.com/SaiSJoshi)  
+[![Leetcode Badge](https://img.shields.io/badge/Leetcode-Profile-informational?style=flat&logo=codepen&logoColor=white&color=1CA2F1)](https://leetcode.com/SaiSJoshi)
 <br>
 <br>
 

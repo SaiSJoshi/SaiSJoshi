@@ -7,17 +7,9 @@
 <br>
 
 ## Bio
-I am a University of Pittsburgh Bioengineering graduate student with a focus on neural engineering. I am enthusiastic about solving real-world problems and making an impact that contributes to the human-centric challenges.
-<br>
-I enjoy the process of designing and implementing deep learning or machine learning projects that make use of sound,text,speech, EEG signals, brain-computer interfaces, or other research fields. I am also interested in exploring new horizons that I have not yet explored.
-I am motivated by a challenge and enjoy the thrill of problem solving.
-Kaggle challenges have recently piqued my interest.
-<br>
-In my spare time, I like to read books and visit national parks. I occasionally spent time to perfect my creative abilities, such as sketching, painting, playing games and playing guitar or drums. My artwork can be found at the link below under other skills.
-'#newfoundgames - Journey'
+I am Data Scientist and a Neural Engineering.
 <br>
 ## 🕵️‍♀️ Key Expertise
-- Build models for human-centric issues
 - Fair understanding for Machine Learning  and Deep Learning  
 - Skilled in deep learning frameworks and tools, such as TensorFlow and PyTorch, to create and train neural networks for tasks such as image and speech recognition, and predictive modeling
 - Expertise on signal processing
@@ -81,8 +73,7 @@ In my spare time, I like to read books and visit national parks. I occasionally 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/sai-sravanthi-joshi/)
 ## :book: Code Space
 [![LinkedIn Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=codepen&logoColor=white&color=1CA2F1)](https://www.kaggle.com/saisravanthijoshi/)
-[![Leetcode Stats](https://leetcard.SaiSJoshi.cool/SaiSJoshi)](https://leetcard.jacoblin.cool/SaiSJoshi?theme=dark&font=Alef)
-  
+[![Leetcode Stats](https://leetcard.SaiSJoshi.cool/SaiSJoshi)](https://leetcode.com/SaiSJoshi)  
 <br>
 <br>
 

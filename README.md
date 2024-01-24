@@ -262,7 +262,6 @@ and ReLU activation function), and train it using Adam optimizer and early stopp
 <br>
 
 ## Social Media
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/srav_joshi)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/sai-sravanthi-joshi/)
 ## :book: Code Space
 [![LinkedIn Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=codepen&logoColor=white&color=1CA2F1)](https://www.kaggle.com/saisravanthijoshi/)
@@ -286,30 +285,6 @@ and ReLU activation function), and train it using Adam optimizer and early stopp
 | Sep 2015 | Workshop            | Science Academies Lecture Workshop on Crystallography        | Bangalore - IISc                                | 
 | Sep 2014 | Workshop            | Statistical Mechanics and Quantum Mechanics                  | Bangalore - IISc                                |
 
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSJoshi)](https://github.com/SaiSJoshi/github-readme-stats)
- 
-
-<a href="https://github.com/SaiSJoshi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SaiSJoshi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-<br>
-
-
-## ⚡ Other Skills
-Click to view:
-<br>
-[Art Work: Behance](https://www.behance.net/sravanthijoshi)
-<br>
-[Art Work: Facebook](https://www.facebook.com/sravanthijoshiartwork)
 <br>
 <br>
 

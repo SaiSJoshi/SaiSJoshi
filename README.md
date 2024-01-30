@@ -79,7 +79,7 @@ I am Data Scientist and a Neural Engineering.
 
 ## Mini - Projects
 
-<table>
+<table> 
 <tr>
 	<th >
 		<img width="441" height="1">

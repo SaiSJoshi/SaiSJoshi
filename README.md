@@ -267,6 +267,8 @@ and ReLU activation function), and train it using Adam optimizer and early stopp
 
 | Year     | Type                | Topic                                                        | Location & Event                                | 
 | -----    | ------------------- |--------------------------------------------------------------| ----------------------------------------------- |  
+| Jan 2024 | Participation 	 | Alzheimer BioMarker Consortium - Down Sundrome		| UCI - Califonia
+| Dec 2023 | Participation 	 | Neurips							| New Orleans
 | Mar 2016 | Oral Presentation   | Propagation of torsional tube waves in the solar atmosphere  | Ahmedabad - Physical Research Laboratory        | 
 | Feb 2016 | Poster Presentation | Propagation of torsional tube waves in the solar atmosphere  | Bangalore - National Conference on RTPS-16      |
 | Oct 2015 | Poster Presentation | Quiescent Solar Prominence Dynamics: A Mathematical Analysis | Bangalore - Neighborhood Astronomy Meeting IISc |

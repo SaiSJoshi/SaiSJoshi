@@ -13,13 +13,13 @@ I am Data Scientist and a Neural Engineering.
 - Expert in applying deep learning to medical imaging, specializing in neuroimaging and radiology.<br>
 - Proficient in developing and deploying deep learning models (CNNs, ResNet, X-Net, Vision Transformers) for medical image analysis.<br>
 - Extensive experience in 3D medical image segmentation, template generation, and parcellation (PET, MRI).<br>
-<br>
-### Technical Skills<br>
+
+### Technical Skills
 - Strong programming foundation (Python, R, MATLAB, SQL) and machine learning expertise (PyTorch, Keras, scikit-learn).<br>
 - Proficiency in medical imaging software (FreeSurfer, PMOD, SPM, MonAI, SimpleITK).<br>
 - Skilled in data science techniques (statistical modeling, clustering, machine learning) for biomedical applications.<br>
-<br>
-### Cloud computing proficiency (AWS, GCP) and version control (Git).<br>
+
+### Cloud computing proficiency (AWS, GCP) and version control (Git).
 - Research and Development<br>
 - Proven ability to combine physics, bioengineering, and computer science for innovative solutions.<br>
 - Experience in building automated data preprocessing pipelines for 3D medical images.<br>
@@ -34,11 +34,7 @@ I am Data Scientist and a Neural Engineering.
 - Neural signals to Speech Conversion
 - Adversarial Networks
 - Neural Networks
-<br>
-<br>
-
-## 🌱 Collaboration Interests 
-- Implementing Deep Learning methods for Neural Engineering
+- Natural Language Processing
 <br>
 <br>
 

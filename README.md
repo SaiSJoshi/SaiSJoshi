@@ -1,5 +1,3 @@
-<img src="Slide1.jpg" alt="Introduction Banner.." style="text-align: center; margin-bottom: 10px;" />
-
 ## Contact
 📫 Reach me on sravanthi.joshi@yahoo.com 
 ![](https://komarev.com/ghpvc/?username=SaiSJoshi)
@@ -9,16 +7,23 @@
 ## Bio
 I am Data Scientist and a Neural Engineering.
 <br>
+
 ## 🕵️‍♀️ Key Expertise
-- Fair understanding for Machine Learning  and Deep Learning  
-- Skilled in deep learning frameworks and tools, such as TensorFlow and PyTorch, to create and train neural networks for tasks such as image and speech recognition, and predictive modeling
-- Expertise on signal processing
-- Deep understanding of problem solving and Data Preprocessing
-- Working knowledge of AWS and Google Cloud Services
-- Team Leadership and Teamwork
-- Fair understanding of Data Analysis
-- Research and apply knowledge to real-world problems
+### Medical Image Analysis
+- Expert in applying deep learning to medical imaging, specializing in neuroimaging and radiology.<br>
+- Proficient in developing and deploying deep learning models (CNNs, ResNet, X-Net, Vision Transformers) for medical image analysis.<br>
+- Extensive experience in 3D medical image segmentation, template generation, and parcellation (PET, MRI).<br>
 <br>
+### Technical Skills<br>
+- Strong programming foundation (Python, R, MATLAB, SQL) and machine learning expertise (PyTorch, Keras, scikit-learn).<br>
+- Proficiency in medical imaging software (FreeSurfer, PMOD, SPM, MonAI, SimpleITK).<br>
+- Skilled in data science techniques (statistical modeling, clustering, machine learning) for biomedical applications.<br>
+<br>
+### Cloud computing proficiency (AWS, GCP) and version control (Git).<br>
+- Research and Development<br>
+- Proven ability to combine physics, bioengineering, and computer science for innovative solutions.<br>
+- Experience in building automated data preprocessing pipelines for 3D medical images.<br>
+- Strong leadership and collaboration skills, demonstrated in multi-university research projects.<br>
 <br>
 
 ## 🎯 Reseach Interests 
